@@ -6,7 +6,7 @@
 <h1 id="mission-vision-och-mål">Mission, vision och mål</h1>
 <h2 id="mission-statement">Mission statement</h2>
 <p>Att inspirera och hjälpa samhällen att minska sin miljöpåverkan genom att individer via små, konkreta och mätbara val kan minska sin miljöpåverkan.<br>
-TODO``</p>
+TODO</p>
 <p><strong>Värdeord:</strong> TODO<br>
 ✅Tillgänglighet<br>
 ✅Inspiration<br>

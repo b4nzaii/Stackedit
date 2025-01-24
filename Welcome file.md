@@ -10,7 +10,6 @@ TODO</p>
 <p><strong>Värdeord:</strong> TODO<br>
 ✅Tillgänglighet<br>
 ✅Inspiration<br>
-✅Samarbete<br>
 ✅Ansvarstagande</p>
 <h2 id="vision-statement">Vision statement</h2>
 <p>Vi vill skapa en värld där fler individer och samhällen tar ansvar/aktiva steg för en hållbar framtid, med hjälp av EcoTracker som är tänkt att vara den bästa appen för miljömedvetna val. T.ex genom att välja rätt produkter när man handlar i butiker, hållbara val som att använda mindre plast, minska matsvinn och välja klimatsmarta transportalternativ.</p>
